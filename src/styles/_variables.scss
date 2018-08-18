@@ -1,0 +1,20 @@
+// Initial app variables
+
+$sidebar-background-color: #98a4ad;
+$sidebar-width-expanded: 200px;
+$sidebar-width-minimized: 72px;
+$sidebar-transition: width 0.28s;
+$sidebar-collateral-transition: margin 0.28s; // collateral effect that affects other layout components
+
+$navbar-collateral-sidebar-transition: transform 0.56s;
+
+// Derived app variables
+
+$sidebar-scale-minimized: $sidebar-width-minimized/$sidebar-width-expanded; // Calculate navbar scale
+
+// Helpers
+
+$transparent:hsla(0, 0%, 0%, 0) !default;
+
+// Bulma variable overrides
+// You can create your own or use one of these themes: https://jenil.github.io/bulmaswatch/
