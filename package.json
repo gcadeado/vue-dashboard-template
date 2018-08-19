@@ -1,7 +1,7 @@
 {
-  "name": "orbi",
-  "version": "1.0.0",
-  "description": "A space-themed real time strategy online browser game",
+  "name": "vue-dashboard-template",
+  "version": "0.0.1",
+  "description": "A pre-defined boilerplate for a dashboard made with Vue + Vuex + Bulma + Buefy + SASS",
   "author": "Gabriel Cencic <gabriel.cencic@gmail.com>",
   "private": true,
   "scripts": {

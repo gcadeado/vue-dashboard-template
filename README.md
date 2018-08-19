@@ -1,6 +1,6 @@
-# orbi
+# Vue Dashboard Template
 
-> A space-themed real time strategy online browser game
+> A pre-defined boilerplate for a dashboard made with Vue + Vuex + Bulma + Buefy + SASS
 
 ## Build Setup
 
